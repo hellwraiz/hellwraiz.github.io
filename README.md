@@ -14,6 +14,14 @@
 ## First I'll want to have a basic outline of the front page. I'll probably make something in paint or something else, anyways, here it is:
 
 ![desing11](designing/design11.png)
+![desing11](designing/design12.png)
+![desing11](designing/design13.png)
+![desing21](designing/design21.png)
+![desing21](designing/design22.png)
+![desing21](designing/design23.png)
+![desing31](designing/design31.png)
+![desing31](designing/design32.png)
+![desing31](designing/design33.png)
 
 ## ideas for the interactive part:
 * pop quiz about bio
